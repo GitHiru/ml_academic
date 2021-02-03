@@ -1,4 +1,4 @@
-### --- MachineLearning ーーー
+### --- MachineLearning ---
 
 ### --- Python ---
 
