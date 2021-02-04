@@ -1,9 +1,20 @@
+# drop_directories
+input/
+input
+output/
+output
+INBOX/
+INBOX
 answer/
 answer
 csv/
 csv
 txt/
 txt
+PDF/
+PDF
 .ipynb_checkpoints/
 .ipynb_checkpoints
+
+# drop_files
 .DS_Store
