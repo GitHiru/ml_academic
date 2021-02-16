@@ -21,4 +21,4 @@ PDF
 
 # DROP FILES (extension)
 .DS_Store
-.csv
+*.csv
