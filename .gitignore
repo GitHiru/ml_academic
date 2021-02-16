@@ -1,4 +1,4 @@
-# drop_directories
+# DROP DIRECTORIES
 input/
 input
 output/
@@ -15,8 +15,10 @@ txt/
 txt
 PDF/
 PDF
-.ipynb_checkpoints/
 .ipynb_checkpoints
+.ipynb_checkpoints/
 
-# drop_files
+
+# DROP FILES (extension)
 .DS_Store
+.csv
